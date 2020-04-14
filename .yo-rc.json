@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.depsmedia.depshelper"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "depshelper",
+    "packageName": "com.depsmedia.depshelper",
+    "packageFolder": "com/depsmedia/depshelper",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWQ3NzU5M2I3OTgyZjJjYzJhMTg3M2Y0YjE0ZTg2MGYyNjI0NjRmNDRjZGE3OWM3ZDY1MmMyM2IwNzFhZWJmODc3MTEzNjVkMGI0Y2MyZDgzOTBiNWJiMmUzMTAwNzc4YTgyOWE2YTFiNmExMmE5NzQwY2Q4ZTEzMDI3YjMzOWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1586881930273,
+    "testFrameworks": ["cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
